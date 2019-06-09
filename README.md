@@ -18,14 +18,14 @@ root -> all the code files, the data, and main/this document
 ## Document explanation
 **Documento** is the main document, it's about 30 pages and you can read it if you want to know about my work, but **it'is written in spanish**.
 The `.R` files are linked with some document sections as shown below:
-* **V01** $\rightarrow$ 2 Limpieza de datos, 3 Selección de variables y 4.1 Regresión Logística
-* **V02** $\rightarrow$ 4.2 Perceptron Multicapa (MLP)
-* **V03** $\rightarrow$ 4.3 Árboles de decision
-* **V04** $\rightarrow$ 4.5 _Bagging_ y _Random Forest_: Just about _bagging_
-* **V05** $\rightarrow$ 4.6 _Bagging_ y _Random Forest_: Just about _random forest_
-* **V06** $\rightarrow$ 4.6 _Gradient Boosting_
-* **V07** $\rightarrow$ 4.7 _XGBoost_
-* **V08** $\rightarrow$ 4.8 Máquinas de vectores de soporte (SVM)
-* **V10_predGenerator** $\rightarrow$ After a few errors I have needed this code to rebuild some files. 
-* **V11** $\rightarrow$ 5.1 _Clustering_ de observaciones, 5.1.1 _K-Means_ y 5.1.2 Jerárquico
-* **V12** $\rightarrow$ 5.2.1 _Naive_ Bayes
+* **V01** :arrow_forward: 2 Limpieza de datos, 3 Selección de variables y 4.1 Regresión Logística
+* **V02** :arrow_forward: 4.2 Perceptron Multicapa (MLP)
+* **V03** :arrow_forward: 4.3 Árboles de decision
+* **V04** :arrow_forward: 4.5 _Bagging_ y _Random Forest_: Just about _bagging_
+* **V05** :arrow_forward: 4.6 _Bagging_ y _Random Forest_: Just about _random forest_
+* **V06** :arrow_forward: 4.6 _Gradient Boosting_
+* **V07** :arrow_forward: 4.7 _XGBoost_
+* **V08** :arrow_forward: 4.8 Máquinas de vectores de soporte (SVM)
+* **V10_predGenerator** :arrow_forward: After a few errors I have needed this code to rebuild some files. 
+* **V11** :arrow_forward: 5.1 _Clustering_ de observaciones, 5.1.1 _K-Means_ y 5.1.2 Jerárquico
+* **V12** :arrow_forward: 5.2.1 _Naive_ Bayes
