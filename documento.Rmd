@@ -157,6 +157,8 @@ Podemos ver también la curva ROC del modelo, que ayuda a hacerse una idea de en
     \includegraphics[width=0.8\textwidth]{img/ROC_glmAIC.png}
 \end{center}
 
+La representación de la curva ROC nos muestra como el modelo ya mejora bastante con respecto a la predicción por la media, la curva presenta un crecimiento muy rápido que se va atenuando, el objetivo es extender lo máximo posible ese crecimiento rápido con el fin de aproximarnos al punto (0,1) que es donde se ubicaría el modelo perfecto.
+
 ## Perceptron Multicapa (MLP){#avNNet}
 Voy a probar ahora a hacer predicciones con **redes neuronales** de una sóla capa oculta. Para ello voy a tener en cuenta el escalado de los datos y la ecuación fundamental a la hora de trabajar con estas redes, que es:
 
@@ -193,7 +195,7 @@ Podemos ver que el área bajo la curva ROC ha mejorado un poco con respecto a la
 
 Y ver como el modelo que podemos suponer mejor hasta ahora es la red neuronal que emplea el set completo de datos, sin embargo al subir las predicciones a Kaggle hemos obtenido un: **77'511%**, luego no hemos mejorado.
 
-## Árboles de decisión{#tree}}
+## Árboles de decisión{#tree}
 Los árboles de decisión lo que hacen es fijar criterios que van segregando la muestra en conjuntos cada vez menores de observaciones que presentan mayor desproporción en cuanto a la variable objetivo. Además de ser muy sencillos de interpretar nos permiten realizar una nueva selección de variables, así que tras desarrollar este modelo tendremos un nuevo set de variables seleccionadas.
 
 Lo primero que he hecho es ajustar los parámetros, de forma que tenga un modelo que de buena precisión pero no este sobreajustado. Tenemos que ajustar el parámetro `minbucket` que es el tamaño mínimo que puede tener la muestra en un nodo y `cp` que es un límite inferior para el descenso del el error relativo al añadir una nueva división entre el número de divisiones. El *minbucket* lo he sacado tanteando múltiples valores distintos y mirando las estructuras del árbol, hasta que finalmente 8 me ha parecido el valor óptimo. El `cp` lo he ajustado a la vista del siguiente gráfico:

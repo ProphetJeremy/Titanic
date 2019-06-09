@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.12)  9 JUN 2019 10:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.12)  9 JUN 2019 12:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1054,26 +1054,26 @@ Package pdftex.def Info: img/ROC_glmAIC.png  used on input line 418.
 (pdftex.def)             Requested size: 375.81718pt x 217.97395pt.
 [6 <./img/glms.png (PNG copy)>]
 
-LaTeX Warning: Command \' invalid in math mode on input line 430.
+LaTeX Warning: Command \' invalid in math mode on input line 436.
 
 <img/avNNet_tune.png, id=187, 677.53125pt x 370.38374pt>
 File: img/avNNet_tune.png Graphic file (type png)
 <use img/avNNet_tune.png>
-Package pdftex.def Info: img/avNNet_tune.png  used on input line 449.
+Package pdftex.def Info: img/avNNet_tune.png  used on input line 455.
 (pdftex.def)             Requested size: 375.81718pt x 205.44672pt.
 [7 <./img/ROC_glmAIC.png (PNG copy)>]
 <img/avNNet_tune2.png, id=194, 677.53125pt x 370.38374pt>
 File: img/avNNet_tune2.png Graphic file (type png)
 <use img/avNNet_tune2.png>
-Package pdftex.def Info: img/avNNet_tune2.png  used on input line 459.
+Package pdftex.def Info: img/avNNet_tune2.png  used on input line 465.
 (pdftex.def)             Requested size: 375.81718pt x 205.44672pt.
 [8 <./img/avNNet_tune.png (PNG copy)> <./img/avNNet_tune2.png (PNG copy)>]
 <img/avNNets.png, id=200, 1003.75pt x 552.0625pt>
 File: img/avNNets.png Graphic file (type png)
 <use img/avNNets.png>
-Package pdftex.def Info: img/avNNets.png  used on input line 489.
+Package pdftex.def Info: img/avNNets.png  used on input line 495.
 (pdftex.def)             Requested size: 375.808pt x 206.6944pt.
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 509.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 514.
 
 (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1081,195 +1081,193 @@ File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 <img/tree_tune.png, id=201, 677.53125pt x 370.38374pt>
 File: img/tree_tune.png Graphic file (type png)
 <use img/tree_tune.png>
-Package pdftex.def Info: img/tree_tune.png  used on input line 518.
+Package pdftex.def Info: img/tree_tune.png  used on input line 523.
 (pdftex.def)             Requested size: 375.81718pt x 205.44672pt.
 [9 <./img/avNNets.png (PNG copy)>]
-<img/tree_stru.png, id=207, 677.53125pt x 370.38374pt>
+<img/tree_stru.png, id=208, 677.53125pt x 370.38374pt>
 File: img/tree_stru.png Graphic file (type png)
 <use img/tree_stru.png>
-Package pdftex.def Info: img/tree_stru.png  used on input line 526.
+Package pdftex.def Info: img/tree_stru.png  used on input line 531.
 (pdftex.def)             Requested size: 375.81718pt x 205.44672pt.
-<img/tree_vars.png, id=208, 677.53125pt x 365.86688pt>
+<img/tree_vars.png, id=209, 677.53125pt x 365.86688pt>
 File: img/tree_vars.png Graphic file (type png)
 <use img/tree_vars.png>
-Package pdftex.def Info: img/tree_vars.png  used on input line 559.
+Package pdftex.def Info: img/tree_vars.png  used on input line 564.
 (pdftex.def)             Requested size: 375.81718pt x 202.94128pt.
 [10 <./img/tree_tune.png> <./img/tree_stru.png (PNG copy)>]
-<img/trees.png, id=218, 1003.75pt x 552.0625pt>
+<img/trees.png, id=219, 1003.75pt x 552.0625pt>
 File: img/trees.png Graphic file (type png)
 <use img/trees.png>
-Package pdftex.def Info: img/trees.png  used on input line 590.
+Package pdftex.def Info: img/trees.png  used on input line 595.
 (pdftex.def)             Requested size: 375.808pt x 206.6944pt.
 [11 <./img/tree_vars.png> <./img/trees.png (PNG copy)>]
-<img/new_metric.png, id=225, 677.53125pt x 377.91188pt>
+<img/new_metric.png, id=226, 677.53125pt x 377.91188pt>
 File: img/new_metric.png Graphic file (type png)
 <use img/new_metric.png>
-Package pdftex.def Info: img/new_metric.png  used on input line 619.
+Package pdftex.def Info: img/new_metric.png  used on input line 624.
 (pdftex.def)             Requested size: 375.81718pt x 209.62247pt.
 [12 <./img/new_metric.png (PNG copy)>]
-<img/bagg_tune.png, id=231, 752.8125pt x 431.36156pt>
+<img/bagg_tune.png, id=232, 752.8125pt x 431.36156pt>
 File: img/bagg_tune.png Graphic file (type png)
 <use img/bagg_tune.png>
-Package pdftex.def Info: img/bagg_tune.png  used on input line 654.
+Package pdftex.def Info: img/bagg_tune.png  used on input line 659.
 (pdftex.def)             Requested size: 375.81949pt x 215.34456pt.
-<img/baggs.png, id=232, 1003.75pt x 552.0625pt>
+<img/baggs.png, id=233, 1003.75pt x 552.0625pt>
 File: img/baggs.png Graphic file (type png)
 <use img/baggs.png>
-Package pdftex.def Info: img/baggs.png  used on input line 692.
+Package pdftex.def Info: img/baggs.png  used on input line 697.
 (pdftex.def)             Requested size: 375.808pt x 206.6944pt.
 [13 <./img/bagg_tune.png (PNG copy)>]
-<img/rforest_tune.png, id=239, 1003.75pt x 481.8pt>
+<img/rforest_tune.png, id=240, 1003.75pt x 481.8pt>
 File: img/rforest_tune.png Graphic file (type png)
 <use img/rforest_tune.png>
-Package pdftex.def Info: img/rforest_tune.png  used on input line 713.
+Package pdftex.def Info: img/rforest_tune.png  used on input line 718.
 (pdftex.def)             Requested size: 375.808pt x 180.38783pt.
-<img/rforests.png, id=240, 1003.75pt x 552.0625pt>
+<img/rforests.png, id=241, 1003.75pt x 552.0625pt>
 File: img/rforests.png Graphic file (type png)
 <use img/rforests.png>
-Package pdftex.def Info: img/rforests.png  used on input line 725.
+Package pdftex.def Info: img/rforests.png  used on input line 730.
 (pdftex.def)             Requested size: 375.808pt x 206.6944pt.
 [14 <./img/baggs.png (PNG copy)> <./img/rforest_tune.png (PNG copy)>]
-<img/gbm_tune.png, id=247, 752.8125pt x 565.36218pt>
+<img/gbm_tune.png, id=248, 752.8125pt x 565.36218pt>
 File: img/gbm_tune.png Graphic file (type png)
 <use img/gbm_tune.png>
-Package pdftex.def Info: img/gbm_tune.png  used on input line 786.
+Package pdftex.def Info: img/gbm_tune.png  used on input line 791.
 (pdftex.def)             Requested size: 375.81949pt x 282.24043pt.
 [15 <./img/rforests.png (PNG copy)>]
-<img/gbm_tune22.png, id=253, 752.8125pt x 552.56438pt>
+<img/gbm_tune22.png, id=254, 752.8125pt x 552.56438pt>
 File: img/gbm_tune22.png Graphic file (type png)
 <use img/gbm_tune22.png>
-Package pdftex.def Info: img/gbm_tune22.png  used on input line 794.
+Package pdftex.def Info: img/gbm_tune22.png  used on input line 799.
 (pdftex.def)             Requested size: 422.78973pt x 310.32767pt.
 [16 <./img/gbm_tune.png (PNG copy)> <./img/gbm_tune22.png (PNG copy)>]
-<img/gbms.png, id=258, 1003.75pt x 552.0625pt>
+<img/gbms.png, id=259, 1003.75pt x 552.0625pt>
 File: img/gbms.png Graphic file (type png)
 <use img/gbms.png>
-Package pdftex.def Info: img/gbms.png  used on input line 817.
+Package pdftex.def Info: img/gbms.png  used on input line 822.
 (pdftex.def)             Requested size: 375.808pt x 206.6944pt.
-<img/gbms2.png, id=259, 763.35187pt x 414.04688pt>
+<img/gbms2.png, id=260, 763.35187pt x 414.04688pt>
 File: img/gbms2.png Graphic file (type png)
 <use img/gbms2.png>
-Package pdftex.def Info: img/gbms2.png  used on input line 819.
+Package pdftex.def Info: img/gbms2.png  used on input line 824.
 (pdftex.def)             Requested size: 375.8045pt x 203.83873pt.
 [17 <./img/gbms.png (PNG copy)> <./img/gbms2.png (PNG copy)>]
-<img/xgb_tune.png, id=265, 752.8125pt x 602.25pt>
+<img/xgb_tune.png, id=266, 752.8125pt x 602.25pt>
 File: img/xgb_tune.png Graphic file (type png)
 <use img/xgb_tune.png>
-Package pdftex.def Info: img/xgb_tune.png  used on input line 883.
+Package pdftex.def Info: img/xgb_tune.png  used on input line 888.
 (pdftex.def)             Requested size: 422.78973pt x 338.2318pt.
 [18 <./img/xgb_tune.png (PNG copy)>]
-Overfull \hbox (20.21498pt too wide) in alignment at lines 890--895
+Overfull \hbox (20.21498pt too wide) in alignment at lines 895--900
  [] [] [] [] [] [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (20.21498pt too wide) in alignment at lines 895--927
+Overfull \hbox (20.21498pt too wide) in alignment at lines 900--932
  [] [] [] [] [] [] [] [] [] [] [] 
  []
 
-<img/xgbs.png, id=270, 1003.75pt x 552.0625pt>
+<img/xgbs.png, id=271, 1003.75pt x 552.0625pt>
 File: img/xgbs.png Graphic file (type png)
 <use img/xgbs.png>
-Package pdftex.def Info: img/xgbs.png  used on input line 957.
+Package pdftex.def Info: img/xgbs.png  used on input line 962.
 (pdftex.def)             Requested size: 446.2768pt x 245.45222pt.
 [19] [20 <./img/xgbs.png (PNG copy)>]
-<img/svm_tune.png, id=283, 752.8125pt x 377.91188pt>
+<img/svm_tune.png, id=284, 752.8125pt x 377.91188pt>
 File: img/svm_tune.png Graphic file (type png)
 <use img/svm_tune.png>
-Package pdftex.def Info: img/svm_tune.png  used on input line 1007.
+Package pdftex.def Info: img/svm_tune.png  used on input line 1012.
 (pdftex.def)             Requested size: 446.28061pt x 224.03287pt.
-<img/svm_tune2.png, id=284, 828.09375pt x 453.19313pt>
+<img/svm_tune2.png, id=285, 828.09375pt x 453.19313pt>
 File: img/svm_tune2.png Graphic file (type png)
 <use img/svm_tune2.png>
-Package pdftex.def Info: img/svm_tune2.png  used on input line 1059.
+Package pdftex.def Info: img/svm_tune2.png  used on input line 1064.
 (pdftex.def)             Requested size: 446.27948pt x 244.23657pt.
 [21 <./img/svm_tune.png (PNG copy)>]
-<img/svms.png, id=290, 1003.75pt x 552.0625pt>
+<img/svms.png, id=291, 1003.75pt x 552.0625pt>
 File: img/svms.png Graphic file (type png)
 <use img/svms.png>
-Package pdftex.def Info: img/svms.png  used on input line 1092.
+Package pdftex.def Info: img/svms.png  used on input line 1097.
 (pdftex.def)             Requested size: 446.2768pt x 245.45222pt.
 [22 <./img/svm_tune2.png (PNG copy)>] [23 <./img/svms.png (PNG copy)>]
-<img/heatmap.png, id=299, 752.8125pt x 414.04688pt>
+<img/heatmap.png, id=300, 752.8125pt x 414.04688pt>
 File: img/heatmap.png Graphic file (type png)
 <use img/heatmap.png>
-Package pdftex.def Info: img/heatmap.png  used on input line 1179.
+Package pdftex.def Info: img/heatmap.png  used on input line 1184.
 (pdftex.def)             Requested size: 446.28061pt x 245.45433pt.
 [24 <./img/heatmap.png>]
-<img/distancias.png, id=307, 677.53125pt x 338.76563pt>
+<img/distancias.png, id=308, 677.53125pt x 338.76563pt>
 File: img/distancias.png Graphic file (type png)
 <use img/distancias.png>
-Package pdftex.def Info: img/distancias.png  used on input line 1226.
+Package pdftex.def Info: img/distancias.png  used on input line 1231.
 (pdftex.def)             Requested size: 446.28291pt x 223.14145pt.
-<img/nclust_sel.png, id=308, 752.8125pt x 436.63126pt>
+<img/nclust_sel.png, id=309, 752.8125pt x 436.63126pt>
 File: img/nclust_sel.png Graphic file (type png)
 <use img/nclust_sel.png>
-Package pdftex.def Info: img/nclust_sel.png  used on input line 1237.
+Package pdftex.def Info: img/nclust_sel.png  used on input line 1242.
 (pdftex.def)             Requested size: 446.28061pt x 258.84276pt.
 [25 <./img/distancias.png (PNG copy)>]
-<img/k-means.png, id=314, 752.8125pt x 476.53032pt>
+<img/k-means.png, id=315, 752.8125pt x 476.53032pt>
 File: img/k-means.png Graphic file (type png)
 <use img/k-means.png>
-Package pdftex.def Info: img/k-means.png  used on input line 1252.
+Package pdftex.def Info: img/k-means.png  used on input line 1257.
 (pdftex.def)             Requested size: 422.78973pt x 267.62592pt.
 [26 <./img/nclust_sel.png (PNG copy)> <./img/k-means.png (PNG copy)>]
-<img/dendograma.png, id=321, 752.8125pt x 331.2375pt>
+<img/dendograma.png, id=322, 752.8125pt x 331.2375pt>
 File: img/dendograma.png Graphic file (type png)
 <use img/dendograma.png>
-Package pdftex.def Info: img/dendograma.png  used on input line 1279.
+Package pdftex.def Info: img/dendograma.png  used on input line 1284.
 (pdftex.def)             Requested size: 446.28061pt x 196.36346pt.
-<img/hierarchy.png, id=322, 752.8125pt x 476.53032pt>
+<img/hierarchy.png, id=323, 752.8125pt x 476.53032pt>
 File: img/hierarchy.png Graphic file (type png)
 <use img/hierarchy.png>
-Package pdftex.def Info: img/hierarchy.png  used on input line 1289.
+Package pdftex.def Info: img/hierarchy.png  used on input line 1294.
 (pdftex.def)             Requested size: 446.28061pt x 282.49564pt.
 [27 <./img/dendograma.png (PNG copy)>]
-<img/bayes.png, id=328, 752.8125pt x 436.63126pt>
+<img/bayes.png, id=329, 752.8125pt x 436.63126pt>
 File: img/bayes.png Graphic file (type png)
 <use img/bayes.png>
-Package pdftex.def Info: img/bayes.png  used on input line 1336.
+Package pdftex.def Info: img/bayes.png  used on input line 1341.
 (pdftex.def)             Requested size: 446.28061pt x 258.84276pt.
 [28 <./img/hierarchy.png (PNG copy)>]
 LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <10> not available
-(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 1360.
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 1365.
 [29 <./img/bayes.png (PNG copy)>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1416.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1421.
 [30]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1416.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1421.
 (./documento.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1416.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1416.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1421.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1421.
 
 Package rerunfilecheck Info: File `documento.out' has not changed.
-(rerunfilecheck)             Checksum: FABA51DB0F3EBBDD0BA458D653A097C2;3942.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1416.
+(rerunfilecheck)             Checksum: 21DF702D0EC2410658446CAB8B919835;3890.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1421.
  ) 
 Here is how much of TeX's memory you used:
  13592 strings out of 492982
- 197101 string characters out of 6134895
- 305295 words of memory out of 5000000
+ 197082 string characters out of 6134895
+ 305287 words of memory out of 5000000
  16722 multiletter control sequences out of 15000+600000
  81195 words of font info for 137 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  34i,6n,38p,316b,447s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{tree} has been referenced but does not exist, rep
-laced by a fixed one
-
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvip
-s/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/sha
-re/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-m
-athex.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}</usr/share/texmf/fon
-ts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pf
-b></usr/share/texmf/fonts/type1/public/lm/lmbxi10.pfb></usr/share/texmf/fonts/t
-ype1/public/lm/lmex10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></
-usr/share/texmf/fonts/type1/public/lm/lmmi5.pfb></usr/share/texmf/fonts/type1/p
-ublic/lm/lmmi7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/shar
-e/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm
-/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/
-fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10
-.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb></usr/share/texmf/fonts/
-type1/public/lm/lmtk10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
-Output written on documento.pdf (30 pages, 2599148 bytes).
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
+ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/s
+hare/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm
+-mathex.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}</usr/share/texmf/f
+onts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.
+pfb></usr/share/texmf/fonts/type1/public/lm/lmbxi10.pfb></usr/share/texmf/fonts
+/type1/public/lm/lmex10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb>
+</usr/share/texmf/fonts/type1/public/lm/lmmi5.pfb></usr/share/texmf/fonts/type1
+/public/lm/lmmi7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/sh
+are/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/
+lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texm
+f/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy
+10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb></usr/share/texmf/font
+s/type1/public/lm/lmtk10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb
+>
+Output written on documento.pdf (30 pages, 2598544 bytes).
 PDF statistics:
  439 PDF objects out of 1000 (max. 8388607)
  351 compressed objects within 4 object streams
