@@ -3,7 +3,7 @@ About how to lose 4 weeks with this Kaggle - competition
 
 This is my work for the **machine learning** signature of my Official Master about BigData and Business Analytics at Universidad Complutense de Madrid. 
 
-Here you wont find any crazy feature engineering, or data manipulation to get a high score at the [Kaggle - Titanic competition](https://www.kaggle.com/c/titanic), just work about all the different algorithms we have seen, and how to work with them.
+Here you won't find any crazy feature engineering, or data manipulation to get a high score at the [Kaggle - Titanic competition](https://www.kaggle.com/c/titanic), just work about all the different algorithms we have seen, and how to work with them.
 
 ## Folders Structure
 ```
