@@ -1,5 +1,5 @@
 # Titanic
-About how to lose 4 weeks with this Kaggle - competition
+About how much can you improve your Kaggle score without touching the data. **SPOILER ALERT!** The answer is zero. 
 
 This is my work for the **machine learning** signature of my Official Master about BigData and Business Analytics at Universidad Complutense de Madrid. 
 
